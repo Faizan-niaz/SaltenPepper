@@ -1,3 +1,3 @@
 # SaltenPepper
-This is my SaltenPepper assignment work instructor sir Ghous Ahmed
+This is my SaltenPepper assignment work, instructor Ghous Ahmed
 https://saltenpeppers.netlify.app/
